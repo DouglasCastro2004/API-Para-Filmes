@@ -1,13 +1,13 @@
-package com.DouglasCastro.Api.Filmes;
+package Projetovg.API.REST;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class ApiRestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(ApiRestApplication.class, args);
 	}
 
 }

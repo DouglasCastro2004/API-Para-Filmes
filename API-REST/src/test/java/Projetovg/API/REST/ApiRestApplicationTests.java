@@ -1,10 +1,10 @@
-package com.DouglasCastro.Api.Filmes;
+package Projetovg.API.REST;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class ApiRestApplicationTests {
 
 	@Test
 	void contextLoads() {
